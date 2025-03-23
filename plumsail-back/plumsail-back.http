@@ -1,0 +1,6 @@
+@plumsail_back_HostAddress = http://localhost:5126
+
+GET {{plumsail_back_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

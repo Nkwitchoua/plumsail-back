@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ZIS1c1nVeiiCAKrWOMc8ou+RESlXVx9tZKmBiKqu/rE=",
+  "Source": "plumsail-back",
+  "BasePath": "_content/plumsail-back",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
